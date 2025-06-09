@@ -1,7 +1,7 @@
 import '../services/location.dart';
 import '../services/networking.dart';
 
-const String apiKey = "ba30983ab9b4123d1a053218b38536e3";
+const String apiKey = "api from open weather";
 
 class WeatherModel {
   dynamic weatherData;
